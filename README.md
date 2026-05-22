@@ -3,7 +3,7 @@
 
 
 <p align="left">
-  <a href="https://twitter.com/anelka_md" target="_blank">
+  <a href="https://www.instagram.com/zagatothesir?igsh=OTVheno2amo1N3A1" target="_blank">
     <img src="https://img.shields.io/twitter/follow/anelka_md?logo=twitter&style=for-the-badge" alt="anelka_md" />
   </a>
 </p>
