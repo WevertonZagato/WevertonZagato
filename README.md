@@ -20,19 +20,14 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-  <a href="https://dev.to/anelkamd" target="_blank" style="margin-right: 12px;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" height="30" />
-  </a>
-  <a href="https://twitter.com/anelka_md" target="_blank" style="margin-right: 12px;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" />
+ 
   </a>
   <a href="https://www.linkedin.com/in/anelkabag" target="_blank" style="margin-right: 12px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" />
   </a>
-  <a href="https://www.instagram.com/anelka.bag" target="_blank" style="margin-right: 12px;">
+  <a href="https://www.instagram.com/zagatothesir?igsh=OTVheno2amo1N3A1" target="_blank" style="margin-right: 12px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" />
   </a>
-  <a href="https://hashnode.com/@anelka" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" height="30" />
+ 
   </a>
 </p>
