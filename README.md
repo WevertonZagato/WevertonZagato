@@ -2,4 +2,4 @@
 
 ## 🚀 Tecnologias
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,js,react,nodejs,vscode,git,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,cs,js,vscode,mysql)](https://skillicons.dev)
