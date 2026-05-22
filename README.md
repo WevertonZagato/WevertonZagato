@@ -99,13 +99,15 @@ class Weverton {
 
 # 🛠 Currently Working On
 
+# 🛠 Currently Working On
+
 <div align="center">
 
 <img src="https://img.shields.io/badge/Studying-Java-111827?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Learning-C%23-6C63FF?style=for-the-badge&logo=csharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/Focus-FrontEnd-111827?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Goal-Become%20FullStack-6C63FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Learning-C-6C63FF?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/Database-SQL-111827?style=for-the-badge&logo=mysql&logoColor=white"/>
 
+</div>
 </div>
 
 ---
