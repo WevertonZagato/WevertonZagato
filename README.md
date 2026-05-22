@@ -31,7 +31,7 @@
 🚀 Always looking to learn new technologies and create projects that challenge me more and more.
 ```
 <div align="center">
-<img align="center" width="1200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmhleGxhZmo0MWp5ZDJkdG9xYXkyeGdpdWV4NDExZ2Y4MzZnaXFocyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hQw1HLgKZCpBIwehiq/giphy.gif"/>
+<img align="center" width="1500" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm9nNmtyempnMmY2Mm1qenE2MnM4NmdjaWJtcXVzYTRnNnFjanEzMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/q27d5ItxxRemQN24Gc/giphy.gif"/>
 
 <br>
 
