@@ -7,7 +7,7 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on [Zagato Linked](https://www.linkedin.com/feed/)
+- 🔭 I’m currently working on [Zagato Linked](Colocar lindo linkedin/)
 
 - 🌱 I’m currently improving my skills in **C#, Java, SQL, and Programming Logic.**
 
