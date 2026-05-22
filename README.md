@@ -43,19 +43,7 @@
 
 </div>
 
----
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=WevertonZagato&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8A7CFF&icon_color=8A7CFF&text_color=c9d1d9"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WevertonZagato&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8A7CFF&text_color=c9d1d9"/>
-
-</div>
-
----
 
 # 🌌 Current State
 
@@ -68,21 +56,12 @@
 <div align="center">
 
 ```txt
-☕ Hot tea on the desk
-😴 4 hours of sleep
-🎧 Music blasting in headphones
-💻 VS Code open all day
-🧠 Fighting with bugs and syntax
-🚀 Trying to become a great developer
+☕ COFFEE
 ```
 
 </div>
 
 ---
-
-# 🛠 Currently Working On
-
-# 🛠 Currently Working On
 
 <div align="center">
 
@@ -101,6 +80,9 @@
 
 <a href="https://github.com/WevertonZagato">
 <img src="https://skillicons.dev/icons?i=github" width="55"/>
+<a href="https://www.instagram.com/zagatothesir?igsh=OTVheno2amo1N3A1">
+<img src="https://skillicons.dev/icons?i=instagram" width="55"/>
+
 </a>
 
 </div>
