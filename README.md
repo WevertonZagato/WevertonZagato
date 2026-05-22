@@ -7,13 +7,13 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on [Kivu Event](https://github.com/anelkamd/Kivu-Event-V2)
+- 🔭 I’m currently working on [Zagato Linked](https://www.linkedin.com/feed/)
 
-- 🌱 I’m currently improving my skills in **React.js, Next.js, Tailwind CSS, JavaScript**
+- 🌱 I’m currently improving my skills in **C#, Java, SQL, and Programming Logic.**
 
-- 💡 I build modern, animated and scalable web interfaces
-
-- 📫 How to reach me: **anelkadevs@gmail.com**
+- 💡 I am a beginner in development/engineering, but I am dedicated.
+  
+- 📫 How to reach me: **wevertonrobertzagato@gmail.com**
 
 ---
 
