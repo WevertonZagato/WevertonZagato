@@ -1,20 +1,41 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Rob Zagato</h1>
+<h3 align="center">Full-Stack Developer building modern and high-quality web applications</h3>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d1117,50:6C63FF,100:0d1117&text=Weverton%20Rob.%20Zagato&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2500&color=8A7CFF&center=true&vCenter=true&width=700&lines=ADS+Student+at+UNIC;Future+FullStack+Developer;FrontEnd+Focused;Learning+C%23+%7C+Java+%7C+Logic" />
+<p align="left">
+  <a href="https://twitter.com/anelka_md" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/anelka_md?logo=twitter&style=for-the-badge" alt="anelka_md" />
+  </a>
+</p>
 
-<br><br>
+- 🔭 I’m currently working on [Kivu Event](https://github.com/anelkamd/Kivu-Event-V2)
 
-<img src="https://img.shields.io/badge/AGE-20-111827?style=for-the-badge&logo=ghost&logoColor=white"/>
-<img src="https://img.shields.io/badge/FOCUS-FULLSTACK-6C63FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LOCATION-CUIABÁ_MT-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/STATUS-EXHAUSTED_DEV-6C63FF?style=for-the-badge"/>
+- 🌱 I’m currently improving my skills in **React.js, Next.js, Tailwind CSS, JavaScript**
 
-</div>
+- 💡 I build modern, animated and scalable web interfaces
+
+- 📫 How to reach me: **anelkadevs@gmail.com**
 
 ---
 
+<h3 align="left">Connect with me:</h3>
+
+<p align="left">
+  <a href="https://dev.to/anelkamd" target="_blank" style="margin-right: 12px;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" height="30" />
+  </a>
+  <a href="https://twitter.com/anelka_md" target="_blank" style="margin-right: 12px;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" />
+  </a>
+  <a href="https://www.linkedin.com/in/anelkabag" target="_blank" style="margin-right: 12px;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" />
+  </a>
+  <a href="https://www.instagram.com/anelka.bag" target="_blank" style="margin-right: 12px;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" />
+  </a>
+  <a href="https://hashnode.com/@anelka" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" height="30" />
+  </a>
 # 💻 About Me
 
 
