@@ -20,35 +20,18 @@
 <img align="right" width="320" src="https://media.tenor.com/DimzPZMypFcAAAAd/lain-computer.gif"/>
 
 ```js
-class Weverton {
-    constructor() {
-        this.name = "Weverton Zagato";
-        this.location = "Cuiabá - MT";
-        this.college = "UNIC";
-        this.course = "ADS";
+🌱 I am currently studying Systems Analysis and Development at UNIC and improving my programming skills.
 
-        this.focus = [
-            "FullStack",
-            "FrontEnd"
-        ];
+📚 I am focused on studying C#, Java, SQL, and Programming Logic.
 
-        this.currentlyLearning = [
-            "C#",
-            "Java",
-            "Programming Logic"
-        ];
+💻 I am interested in Full Stack and Front-End development, constantly seeking to evolve in the technology field.
 
-        this.lifeStyle = [
-            "Late night coding",
-            "Tea addicted",
-            "Debugging for no reason",
-            "Trying to survive semicolon errors"
-        ];
-    }
-}
+⚡ I am also interested in Automation, Software Development, and Systems Engineering.
+
+🚀 Always looking to learn new technologies and create projects that challenge me more and more.
 ```
 
-<br><br><br><br><br><br><br><br><br>
+<br><br><br>
 
 ---
 
