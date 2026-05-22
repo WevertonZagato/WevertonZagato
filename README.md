@@ -6,7 +6,7 @@
 
 <br><br>
 
-<img src="https://img.shields.io/badge/AGE-19-111827?style=for-the-badge&logo=ghost&logoColor=white"/>
+<img src="https://img.shields.io/badge/AGE-20-111827?style=for-the-badge&logo=ghost&logoColor=white"/>
 <img src="https://img.shields.io/badge/FOCUS-FULLSTACK-6C63FF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/LOCATION-CUIABÁ_MT-111827?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/STATUS-EXHAUSTED_DEV-6C63FF?style=for-the-badge"/>
