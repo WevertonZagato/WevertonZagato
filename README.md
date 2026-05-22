@@ -35,7 +35,7 @@
 
 ---
 
-# ⚡ Tech Stack
+# ⚡ Studying
 
 <div align="center">
 
