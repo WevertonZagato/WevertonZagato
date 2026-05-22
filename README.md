@@ -56,7 +56,7 @@ class Weverton {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cs,java,html,css,js,ts,react,nodejs,nextjs,mysql,mongodb,git,github,vscode,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=cs,java,html,css,js,github&ts" />
 
 </div>
 
