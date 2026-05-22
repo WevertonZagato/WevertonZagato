@@ -17,7 +17,7 @@
 
 # 💻 About Me
 
-<img align="right" width="320" src="https://media.tenor.com/DimzPZMypFcAAAAd/lain-computer.gif"/>
+
 
 ```js
 🌱 I am currently studying Systems Analysis and Development at UNIC and improving my programming skills.
@@ -30,8 +30,10 @@
 
 🚀 Always looking to learn new technologies and create projects that challenge me more and more.
 ```
+<div align="center">
+<img align="center" width="1200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmhleGxhZmo0MWp5ZDJkdG9xYXkyeGdpdWV4NDExZ2Y4MzZnaXFocyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hQw1HLgKZCpBIwehiq/giphy.gif"/>
 
-<br><br><br>
+<br>
 
 ---
 
@@ -43,17 +45,17 @@
 
 </div>
 
-
-
-# 🌌 Current State
+<br>
 
 <div align="center">
 
-<img width="500" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif"/>
+<img width="450" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHZxYWN5cG1sY2FucWZuZWN1MWt3ajZ1bGpyNDRqOHNqcXo0ZHJueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBzO4OBN8oIms/giphy.gif"/>
 
 </div>
 
-<div align="center">
+<div align="center"> 
+  
+<br>
 
 ```txt
 ☕ COFFEE
@@ -74,7 +76,7 @@
 
 ---
 
-# 🌐 Connect With Me
+                                                            🌐 Connect With Me
 
 <div align="center">
 
