@@ -26,3 +26,11 @@
  
   </a>
 </p>
+<!-- Languages & Tools -->
+<h3 align="center">📚 Languages ​​I am studying</h3>
+<div align="center">
+  
+  <img src="https://skillicons.dev/icons?i=html,css,vscode,pycharm" /><br>
+  <img src="https://skillicons.dev/icons?i=python,javascript,cs,java" /><br>
+
+</div>
