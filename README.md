@@ -23,9 +23,8 @@
   <a href="https://www.instagram.com/zagatothesir?igsh=OTVheno2amo1N3A1" target="_blank" style="margin-right: 50px;">
     <img src="https://skillicons.dev/icons?i=instagram" height="50" />
   </a>
-  <a href="mailto:wevertonrobertzagato@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" height="50" />
-</a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=wevertonrobertzagato@gmail.com&su=Contato%20via%20GitHub&body=Olá%20Weverton," target="_blank">
+  <img src="https://skillicons.dev/icons?i=gmail" height="50" />
 </a>
   </a>
 </p>
