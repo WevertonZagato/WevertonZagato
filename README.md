@@ -12,16 +12,16 @@
 
 ---
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 
-<p align="left">
+<p align="center">
  
   </a>
-  <a href="https://www.linkedin.com/in/weverton-zagato-026299259/g" target="_blank" style="margin-right: 12px;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" />
-  </a>
-  <a href="https://www.instagram.com/zagatothesir?igsh=OTVheno2amo1N3A1" target="_blank" style="margin-right: 12px;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" />
+  <a href="https://www.linkedin.com/in/weverton-zagato-026299259/g" target="_blank" style="margin-right: 50px;">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
+  </a> 
+  <a href="https://www.instagram.com/zagatothesir?igsh=OTVheno2amo1N3A1" target="_blank" style="margin-right: 50px;">
+    <img src="https://skillicons.dev/icons?i=instagram" height="50" />
   </a>
  
   </a>
