@@ -23,7 +23,8 @@
   <a href="https://www.instagram.com/zagatothesir?igsh=OTVheno2amo1N3A1" target="_blank" style="margin-right: 50px;">
     <img src="https://skillicons.dev/icons?i=instagram" height="50" />
   </a>
- 
+  <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox" target="_blank" style="margin-right: 50px;">
+    <img src="https://skillicons.dev/icons?i=gmail" height="50" />
   </a>
 </p>
 <!-- Languages & Tools -->
