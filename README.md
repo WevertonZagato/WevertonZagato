@@ -26,7 +26,7 @@
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=wevertonrobertzagato@gmail.com&su=Contato%20via%20GitHub&body=Olá%20Weverton," target="_blank">
   <img src="https://skillicons.dev/icons?i=gmail" height="50" />
     
-   <a href="https://discord.com/users/SEU_ID_DISCORD" target="_blank">
+   <a href="https://discord.com/users/1429528538653917307" target="_blank">
   <img src="https://skillicons.dev/icons?i=discord" height="50" />
   </a>
 </p>
