@@ -4,7 +4,7 @@
 <br/> 
 - 🔭 📚 ADS student at UNIC – Cuiabá/MT.
 
-- 🌱 I’m currently improving my skills in **C#, Java, SQL, and Programming Logic.**
+- 🌱 I’m currently improving my skills in ** Java, SQL, and Programming Logic.**
 
 - 💡 I am a beginner in development/engineering, but I am dedicated.
   
